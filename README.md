@@ -11,8 +11,8 @@ Back-end: PHP Izmantotie avoti: https://www.bootstrapcdn.com/ - html elementi ht
 
 Uzstādīšanas instrukcijas: Lejupielādēt projektu un sekojiet instrukcijai zemak.
 
-Pārnesam mapi WlaCar uz xampp/htdocs.
-Ieslēdzām serveri.
-Atveram jebkurā interneta pārlūkprogrammā vietni http://localhost/wlacar/.
+1.Pārnesam mapi WlaCar uz xampp/htdocs.
+2.Ieslēdzām serveri.
+3.Atveram jebkurā interneta pārlūkprogrammā vietni http://localhost/wlacar/.
 Admin profile: login: admin
 parole: 777777 Lietotaja profile: e-pasts: warham98@gmail.com parole: 111111
